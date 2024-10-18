@@ -1,9 +1,11 @@
-import SongList from './pages/search/Songlist';
+import Player from './components/player/Player';
+import Queue from './components/queue/Queue';
 
 function App() {
   return (
     <>
-      <SongList />
+      <Queue />
+      <Player />
     </>
   );
 }
