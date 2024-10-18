@@ -1,4 +1,4 @@
-import SongList from './components/songs/Songlist';
+import SongList from './pages/search/Songlist';
 
 function App() {
   return (

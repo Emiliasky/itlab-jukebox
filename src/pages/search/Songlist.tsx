@@ -1,6 +1,6 @@
 import { SEARCH_DATA } from '../../api/mock_data';
 
-import Song from './Song';
+import Song from '../../components/songs/Song';
 
 const SongList = () => {
   const songs = SEARCH_DATA;
